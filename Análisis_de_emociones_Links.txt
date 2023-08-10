@@ -1,0 +1,104 @@
+                                         LINKS
+
+-  https://www.usesignhouse.com/blog/sentiment-emotional#Emotional_Analysis
+
+
+- https://devblogs.microsoft.com/cse/2015/11/29/emotion-detection-and-recognition-from-text-using-deep-learning/
+
+
+- https://stackoverflow.com/questions/26284950/sentiments-analysis-vs-emotion-analysis/27223073#27223073
+
+
+- https://www.linkedin.com/pulse/5-methods-do-emotion-analysis-text-data-aeshna-gupta
+
+
+- file:///C:/Users/ccamacho/Downloads/hakak2017.pdf
+
+
+- https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html
+
+
+- https://mitsloan.mit.edu/ideas-made-to-matter/emotion-ai-explained
+
+
+
+Bbliotecas
+
+1-Text2emotion
+Biblioteca de python, procesa datos y reconoce cinco tipos de emociones, la salida consiste
+en un diccionario donde la llave es una emoción y su valor es la puntuación asociada.
+
+   Ventajas
+    Fácil de entender.
+    Las puntuaciones son independientes una de otra.
+
+  Desventajas
+    El proceso puede ser lento para cantidades grandes de datos
+
+2-NRCLex
+NRC(National Research Council Canada) tiene la biblioteca NRCLex que se basa en un
+diccionario léxico con ayuda de una biblioteca adicional de NLKT, maneja ocho tipo de
+emociones y dos sentimientos.
+
+   Ventajas
+     Fácil de entender.
+     Es veloz para grandes cantidades de datos.
+     El diccionario es suficientemente grande.
+
+   Desventajas
+     Puede que una oración tenga asociada dos emociones con las misma puntuación.
+     El diccionario que ocupa tiene palabras para las cuales es difícil de determinar su emoción.
+
+3-IBM Tone Analyzer
+Es un servicio de IBM, que podemos ocupar también con python, trabaja con siete tonos
+divididos en cuatro emociones y tres lenguajes de estilo
+
+    Ventajas
+      Para las oraciones las puntuaciones de los tonos son independientes unos de otros.
+
+
+   Desventajas
+     Puede ser difícil de entender la biblioteca sin leer detenidamente la documentación
+     El proceso puede ser lento para cantidades grandes de datos.
+
+
+
+########################## Links de cursos #############################
+
+-- https://www.coursera.org/learn/introduccion-al-procesamiento-de-lenguaje-natural
+
+--https://www.coursera.org/projects/analiza--tu-mercado-con-python
+
+--https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i
+
+--https://www.udemy.com/course/procesamiento-del-lenguaje-natural-con-python-nlp/
+
+--https://www.udemy.com/course/deep-learning-con-keras/
+
+--https://unipython.com/cursos/natural-language-processing-pnl-con-deep-learning/
+
+--https://www.udemy.com/course/machine-learning-con-python-aprendizaje-automatico-avanzado/
+
+
+
+
+
+
+
+
+
+
+
+
+Análisis de Sentimientos
+
+-https://www.arsys.es/blog/analisis-sentimientos-python-jupyter-notebooks#:~:text=An%C3%A1lisis%20de%20sentimientos%20con%20Python%20y%20Jupyter%20Notebooks,en%20frases%20...%204%20Analizar%20el%20sentimiento%20
+-https://neuraldojo.org/proyectos/analisis-de-sentimiento/guia-basica-de-analisis-de-sentimiento-en-python/
+-https://www.geeksforgeeks.org/generating-word-cloud-python/
+-https://pypi.org/project/textblob/
+-https://www.youtube.com/watch?v=PyapqnwbVI0&list=PLgHCrivozIb2NBVVL0Scs_nIGRUb9dW5U&index=3
+-https://textblob.readthedocs.io/en/dev/quickstart.html
+-https://www.ellaberintodefalken.com/2019/11/analisis-de-sentimiento-NLP.html
+-https://colab.research.google.com/drive/1_WGrHuyYCkQQIKEjx95LRAhBYTjqFhJw?usp=sharing#scrollTo=7e5qBw1qAJE2
+
+
