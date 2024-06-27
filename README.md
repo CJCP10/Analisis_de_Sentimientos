@@ -1,1 +1,1 @@
-# Se retomara el pruyecto de análisis de sentimientos
+# Se retomara el proyecto de análisis de sentimientos
